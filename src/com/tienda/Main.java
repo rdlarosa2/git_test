@@ -9,7 +9,9 @@ public class Main {
         
         System.out.println("feature1");
         
-        System.out.println("Este es un HOTFIX");        
+        System.out.println("Este es un HOTFIX");
+        
+        System.out.println("FEATURE1");        
 	}
 
 }
